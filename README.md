@@ -1,1 +1,1 @@
-# curors-test
+# cursors-test
